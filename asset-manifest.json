@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kulvendra-portfolio/static/css/main.753df6e4.css",
+    "main.js": "/kulvendra-portfolio/static/js/main.9180f531.js",
+    "index.html": "/kulvendra-portfolio/index.html",
+    "main.753df6e4.css.map": "/kulvendra-portfolio/static/css/main.753df6e4.css.map",
+    "main.9180f531.js.map": "/kulvendra-portfolio/static/js/main.9180f531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.753df6e4.css",
+    "static/js/main.9180f531.js"
+  ]
+}
