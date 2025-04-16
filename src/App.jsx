@@ -1,0 +1,1 @@
+// Full App component goes here with Firebase + content
