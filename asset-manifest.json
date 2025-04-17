@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kulvendra-portfolio/static/css/main.b31f3c65.css",
-    "main.js": "/kulvendra-portfolio/static/js/main.fd7fbdf9.js",
+    "main.css": "/kulvendra-portfolio/static/css/main.8ca97b65.css",
+    "main.js": "/kulvendra-portfolio/static/js/main.3dfa11c5.js",
     "index.html": "/kulvendra-portfolio/index.html",
-    "main.b31f3c65.css.map": "/kulvendra-portfolio/static/css/main.b31f3c65.css.map",
-    "main.fd7fbdf9.js.map": "/kulvendra-portfolio/static/js/main.fd7fbdf9.js.map"
+    "main.8ca97b65.css.map": "/kulvendra-portfolio/static/css/main.8ca97b65.css.map",
+    "main.3dfa11c5.js.map": "/kulvendra-portfolio/static/js/main.3dfa11c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b31f3c65.css",
-    "static/js/main.fd7fbdf9.js"
+    "static/css/main.8ca97b65.css",
+    "static/js/main.3dfa11c5.js"
   ]
 }
